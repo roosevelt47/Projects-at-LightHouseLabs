@@ -10,7 +10,8 @@ Various project submissions
   <li>Cat's Company Vulnerabilities
   <li>Encryption
   <li>Investigation & Research Report On Marriott Data Breach 2018
-  <li>Capstone Project
+  <li>Capstone Project</li>
+
 
 
 
