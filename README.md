@@ -2,7 +2,7 @@
 Various project submissions
 
 <!-- TABLE OF CONTENTS -->
-Table of Contents
+### Table of Contents
   
   <li>The Stolen Szechuan Sauce
   <li>Logs, IoCs, Thresholds, and Alerts case study report
